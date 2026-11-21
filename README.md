@@ -1,14 +1,14 @@
 # Gabriel (@CreatorDevHAS)
 
-Full Stack Developer focused on building scalable web applications, REST APIs, and responsive interfaces.
+CEO no [celanimesflix.online](https://www.celanimesflix.online) e Desenvolvedor Full Stack focado na criação de aplicações web escaláveis, APIs e interfaces responsivas.
 
-### About
-- Working across frontend and backend with a focus on clean architecture and performance.
-- Building full-stack projects from database design to deployment.
-- Portfolio: [creatordevhas.github.io](https://github.io)
+### Sobre
+- Liderando e desenvolvendo o [celanimesflix.online](https://www.celanimesflix.online).
+- Atuação de ponta a ponta entre frontend e backend, com foco em arquitetura limpa e performance.
+- Portfólio: [creatordevhas.github.io](https://github.io)
 
-### Tech Stack
+### Tecnologias
 - **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS
 - **Backend:** Node.js, Python
-- **Databases:** PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Linux
+- **Banco de Dados:** PostgreSQL, MongoDB, Supabase
+- **Ferramentas:** Git, Docker, Linux
