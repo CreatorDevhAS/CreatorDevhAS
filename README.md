@@ -1,54 +1,14 @@
-<div align="center">
+# Gabriel (@CreatorDevHAS)
 
-  <h1>⚡ Gabriel — Full Stack Developer</h1>
-  <p>
-    <strong>From database architecture to pixel-perfect UIs 🛠️🎨</strong>
-  </p>
+Full Stack Developer focused on building scalable web applications, REST APIs, and responsive interfaces.
 
-  <p>
-    <a href="https://github.io" target="_blank">
-      🌐 <strong>Visit My Live Portfolio</strong>
-    </a>
-  </p>
+### About
+- Working across frontend and backend with a focus on clean architecture and performance.
+- Building full-stack projects from database design to deployment.
+- Portfolio: [creatordevhas.github.io](https://github.io)
 
-</div>
-
----
-
-### 👨‍💻 About Me
-
-Hi! I'm **Gabriel** (`0xgabriel`), a **Full Stack Developer** focused on building fast, clean, and scalable web applications — from database modeling to responsive user interfaces.
-
-- 🔭 Currently building modern web projects and sharpening my full-stack skills
-- ⚡ Focused on clean code, performance, and zero-bloat architecture
-- 🌐 **Portfolio:** [creatordevhas.github.io](https://github.io)
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-  **Frontend**
-  <br />
-  <img src="https://skillicons.dev" alt="Frontend Stack" />
-
-  <br /><br />
-
-  **Backend & Databases**
-  <br />
-  <img src="https://skillicons.dev" alt="Backend & Databases" />
-
-  <br /><br />
-
-  **Tools & DevOps**
-  <br />
-  <img src="https://skillicons.dev" alt="Tools & DevOps" />
-
-</div>
-
----
-
-<div align="center">
-  <sub>Built with 💻 and ☕ by <strong>Gabriel</strong></sub>
-</div>
+### Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS
+- **Backend:** Node.js, Python
+- **Databases:** PostgreSQL, MongoDB
+- **Tools:** Git, Docker, Linux
